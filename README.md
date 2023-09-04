@@ -1,3 +1,3 @@
 # lab_04_assignment
 
-this is a college assignment repository
+# this is a college assignment repository
